@@ -1,3 +1,5 @@
+## Question : https://www.codechef.com/COOK103B/problems/CHFPARTY/
+
 def main():
     testcases = int(input())
     for test in range(testcases):
