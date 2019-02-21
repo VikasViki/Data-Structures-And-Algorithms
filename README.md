@@ -9,3 +9,10 @@ Collection of Problems with solutions of various Competitive Programming Sites
     * FEB19
       - [TABLET](https://github.com/VikasViki/Competitive_Programming/blob/master/Codechef/Cook-Off/FEB19/TABLET.py)
       - [CHFPARTY](https://github.com/VikasViki/Competitive_Programming/blob/master/Codechef/Cook-Off/FEB19/CHFPARTY.py)
+  + Practise
+ - Hacker Rank
+ - Geeks For Geeks
+ - Hacker Earth
+ - CodeForces
+ - Leet Code
+ 
