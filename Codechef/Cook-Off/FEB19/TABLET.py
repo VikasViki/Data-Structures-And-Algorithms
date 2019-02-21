@@ -1,3 +1,5 @@
+## Question link : https://www.codechef.com/COOK103B/problems/TABLET/
+
 def main():
     testcases = int(input())
     for _ in range(testcases):
