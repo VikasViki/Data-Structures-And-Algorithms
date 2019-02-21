@@ -1,6 +1,6 @@
 # Competitive_Programming
 Collection of Problems with solutions of various Competitive Programming Sites
-- Codechef
+- [Codechef](https://www.codechef.com/users/vikasviki)
   + Long Challenges
     * FEB19
       - [HMAPPY2](https://github.com/VikasViki/Competitive_Programming/blob/master/Codechef/Long_Challenge/FEB19/HMAPPY2.py)
