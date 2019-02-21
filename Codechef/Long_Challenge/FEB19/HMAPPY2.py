@@ -1,3 +1,5 @@
+## Question link : https://www.codechef.com/FEB19B/problems/HMAPPY2/
+
 def gcd(x,y):
     while y:
         x,y = y,x%y
@@ -19,3 +21,5 @@ for _ in range(int(input())):
         print("Win")
     else:
         print("Lose")
+
+# Solution link : https://www.codechef.com/viewsolution/22715987
