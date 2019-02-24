@@ -10,6 +10,8 @@ Collection of Problems with solutions of various Competitive Programming Sites
       - [TABLET](https://github.com/VikasViki/Competitive_Programming/blob/master/Codechef/Cook-Off/FEB19/TABLET.py)
       - [CHFPARTY](https://github.com/VikasViki/Competitive_Programming/blob/master/Codechef/Cook-Off/FEB19/CHFPARTY.py)
   + Lunch Time's 
+    * FEB19
+      - [AVG](https://github.com/VikasViki/Competitive_Programming/blob/master/Codechef/Lunch_Time/FEB19/AVG.py)
   + Practise
  - Hacker Rank
  - Geeks For Geeks
