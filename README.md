@@ -15,6 +15,7 @@ Collection of Problems with solutions of various Competitive Programming Sites
   + Practice
     * BEGINNER
     * EASY
+    * MEDIUM
  - Hacker Rank
  - Geeks For Geeks
  - Hacker Earth
