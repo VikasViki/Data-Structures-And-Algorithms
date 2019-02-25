@@ -16,6 +16,7 @@ Collection of Problems with solutions of various Competitive Programming Sites
     * BEGINNER
     * EASY
     * MEDIUM
+    * HARD
  - Hacker Rank
  - Geeks For Geeks
  - Hacker Earth
