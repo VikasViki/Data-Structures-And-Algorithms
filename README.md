@@ -13,6 +13,7 @@ Collection of Problems with solutions of various Competitive Programming Sites
     * FEB19
       - [AVG](https://github.com/VikasViki/Competitive_Programming/blob/master/Codechef/Lunch_Time/FEB19/AVG.py)
   + Practice
+    * BEGINNER
     * EASY
  - Hacker Rank
  - Geeks For Geeks
