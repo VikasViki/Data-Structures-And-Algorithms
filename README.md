@@ -20,6 +20,7 @@ Collection of Problems with solutions of various Competitive Programming Sites
  - Hacker Rank
  - [Geeks For Geeks](https://auth.geeksforgeeks.org/user/VikasViki/)
    * SCHOOL
+   * BASIC
  - Hacker Earth
  - CodeForces
  - Leet Code
