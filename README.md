@@ -21,6 +21,7 @@ Collection of Problems with solutions of various Competitive Programming Sites
  - [Geeks For Geeks](https://auth.geeksforgeeks.org/user/VikasViki/)
    * SCHOOL
    * BASIC
+   * EASY
  - Hacker Earth
  - CodeForces
  - Leet Code
