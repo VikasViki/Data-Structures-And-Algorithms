@@ -23,6 +23,7 @@ Collection of Problems with solutions of various Competitive Programming Sites
    * BASIC
    * EASY
    * MEDIUM
+   * HARD
  - Hacker Earth
  - CodeForces
  - Leet Code
