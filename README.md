@@ -22,6 +22,7 @@ Collection of Problems with solutions of various Competitive Programming Sites
    * SCHOOL
    * BASIC
    * EASY
+   * MEDIUM
  - Hacker Earth
  - CodeForces
  - Leet Code
