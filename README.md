@@ -18,7 +18,8 @@ Collection of Problems with solutions of various Competitive Programming Sites
     * MEDIUM
     * HARD
  - Hacker Rank
- - Geeks For Geeks
+ - [Geeks For Geeks](https://auth.geeksforgeeks.org/user/VikasViki/)
+   * SCHOOL
  - Hacker Earth
  - CodeForces
  - Leet Code
