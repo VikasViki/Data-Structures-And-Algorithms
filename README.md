@@ -17,14 +17,15 @@ Collection of Problems with solutions of various Competitive Programming Sites
     * EASY
     * MEDIUM
     * HARD
- - Hacker Rank
- - [Geeks For Geeks](https://auth.geeksforgeeks.org/user/VikasViki/)
-   * SCHOOL
-   * BASIC
-   * EASY
-   * MEDIUM
-   * HARD
- - Hacker Earth
- - CodeForces
- - Leet Code
+- Hacker Rank
+- [Geeks For Geeks](https://auth.geeksforgeeks.org/user/VikasViki/)
+  + SCHOOL
+    * [Reverse an Array](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/SCHOOL/Reverse%20an%20Array.py)
+  + BASIC
+  + EASY
+  + MEDIUM
+  + HARD
+- Hacker Earth
+- CodeForces
+- Leet Code
  
