@@ -23,6 +23,7 @@ Collection of Problems with solutions of various Competitive Programming Sites
     * [Reverse an Array](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/SCHOOL/Reverse%20an%20Array.py)
     * [Print alternate elements of an array](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/SCHOOL/Print%20alternate%20elements%20of%20an%20array.py)
   + BASIC
+    * [Search an Element in an array](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/BASIC/Search%20an%20Element%20in%20an%20array.py)
   + EASY
   + MEDIUM
   + HARD
