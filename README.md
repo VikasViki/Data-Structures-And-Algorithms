@@ -26,6 +26,7 @@ Collection of Problems with solutions of various Competitive Programming Sites
     * [Search an Element in an array](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/BASIC/Search%20an%20Element%20in%20an%20array.py)
     * [Rotating an Array](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/BASIC/Rotating%20an%20Array.py)
     * [Sort in specific order](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/BASIC/Sort%20in%20specific%20order.py)
+    * [Find second largest element](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/BASIC/Find%20second%20largest%20element.py)
   + EASY
   + MEDIUM
   + HARD
