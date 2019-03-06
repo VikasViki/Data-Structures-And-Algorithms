@@ -27,6 +27,7 @@ Collection of Problems with solutions of various Competitive Programming Sites
     * [Rotating an Array](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/BASIC/Rotating%20an%20Array.py)
     * [Sort in specific order](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/BASIC/Sort%20in%20specific%20order.py)
     * [Find second largest element](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/BASIC/Find%20second%20largest%20element.py)
+    * [Repeated I.Ds](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/BASIC/Repeated%20I.Ds.py)
   + EASY
   + MEDIUM
   + HARD
