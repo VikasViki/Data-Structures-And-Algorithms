@@ -29,6 +29,7 @@ Collection of Problems with solutions of various Competitive Programming Sites
     * [Find second largest element](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/BASIC/Find%20second%20largest%20element.py)
     * [Repeated I.Ds](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/BASIC/Repeated%20I.Ds.py)
     * [Multiply left and right array sum](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/BASIC/Multiply%20left%20and%20right%20array%20sum.py)
+    * [Immediate Smaller Element](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/BASIC/Immediate%20Smaller%20Element.py)
   + EASY
   + MEDIUM
   + HARD
