@@ -34,6 +34,7 @@ Collection of Problems with solutions of various Competitive Programming Sites
     * [Print an array in Pendulum Arrangement](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/BASIC/Print%20an%20array%20in%20Pendulum%20Arrangement.py)
     * [Transform to prime](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/BASIC/Transform%20to%20prime.py)
     * [Find the closest number](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/BASIC/Find%20the%20closest%20number.py)
+    * [Count nodes of linked list](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/BASIC/Count%20nodes%20of%20linked%20list.py)
   + EASY
   + MEDIUM
   + HARD
