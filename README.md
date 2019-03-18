@@ -38,6 +38,7 @@ Collection of Problems with solutions of various Competitive Programming Sites
   + EASY
     * [Sort an array of 0s, 1s and 2s](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/EASY/Sort%20an%20array%20of%200s%2C%201s%20and%202s.py)
     * [Chocolate Distribution Problem](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/EASY/Chocolate%20Distribution%20Problem.py)
+    * [Index Of an Extra Element](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/EASY/Index%20Of%20an%20Extra%20Element.py)
   + MEDIUM
   + HARD
 - Hacker Earth
