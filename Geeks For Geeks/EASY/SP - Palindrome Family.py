@@ -1,5 +1,6 @@
 ## Question link : https://practice.geeksforgeeks.org/problems/sp-palindrome-family/0
 
+def pal(s):
     if string[:] == string[::-1]:
         return True
     else:
