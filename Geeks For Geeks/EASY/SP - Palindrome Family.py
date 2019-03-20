@@ -1,11 +1,12 @@
 ## Question link : https://practice.geeksforgeeks.org/problems/sp-palindrome-family/0
 
+##Function to check whether the string is palindrome
 def pal(s):
     if string[:] == string[::-1]:
         return True
     else:
         return False
-        
+
 for _ in range(int(input())):
     s = input()
     if pal(s):
