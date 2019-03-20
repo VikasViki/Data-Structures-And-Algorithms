@@ -41,6 +41,7 @@ Collection of Problems with solutions of various Competitive Programming Sites
     * [Index Of an Extra Element](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/EASY/Index%20Of%20an%20Extra%20Element.py)
     * [Leaders in an array](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/EASY/Leaders%20in%20an%20array.py)
     * [SP - Palindrome Family](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/EASY/SP%20-%20Palindrome%20Family.py)
+    * [Sum of given range](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/EASY/Sum%20of%20given%20range.py)
   + MEDIUM
   + HARD
 - Hacker Earth
