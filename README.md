@@ -42,6 +42,7 @@ Collection of Problems with solutions of various Competitive Programming Sites
     * [Leaders in an array](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/EASY/Leaders%20in%20an%20array.py)
     * [SP - Palindrome Family](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/EASY/SP%20-%20Palindrome%20Family.py)
     * [Sum of given range](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/EASY/Sum%20of%20given%20range.py)
+    * [Triangular Number](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/EASY/Triangular%20Number.py)
   + MEDIUM
   + HARD
 - Hacker Earth
