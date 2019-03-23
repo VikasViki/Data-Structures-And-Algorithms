@@ -36,6 +36,7 @@ Collection of Problems with solutions of various Competitive Programming Sites
     * [Find the closest number](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/BASIC/Find%20the%20closest%20number.py)
     * [Count nodes of linked list](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/BASIC/Count%20nodes%20of%20linked%20list.py)
     * [Product of array elements](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/BASIC/Product%20of%20array%20elements.py)
+    * [Start Coding - Python](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/BASIC/Start%20Coding%20-%20Python.py)
   + EASY
     * [Sort an array of 0s, 1s and 2s](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/EASY/Sort%20an%20array%20of%200s%2C%201s%20and%202s.py)
     * [Chocolate Distribution Problem](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/EASY/Chocolate%20Distribution%20Problem.py)
