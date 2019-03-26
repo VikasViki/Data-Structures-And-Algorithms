@@ -47,6 +47,7 @@ Collection of Problems with solutions of various Competitive Programming Sites
     * [Sum of given range](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/EASY/Sum%20of%20given%20range.py)
     * [Triangular Number](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/EASY/Triangular%20Number.py)
   + MEDIUM
+    * [Excel Sheet | Part - 1](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/MEDIUM/Excel%20Sheet%20%7C%20Part%20-%201.py)
   + HARD
 - Hacker Earth
 - CodeForces
