@@ -49,6 +49,7 @@ Collection of Problems with solutions of various Competitive Programming Sites
   + MEDIUM
     * [Excel Sheet | Part - 1](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/MEDIUM/Excel%20Sheet%20%7C%20Part%20-%201.py)
     * [Sum of bit differences](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/MEDIUM/Sum%20of%20bit%20differences.py)
+    * [Kth smallest element](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/MEDIUM/Kth%20smallest%20element.py)
   + HARD
 - Hacker Earth
 - CodeForces
