@@ -51,6 +51,7 @@ Collection of Problems with solutions of various Competitive Programming Sites
     * [Sum of bit differences](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/MEDIUM/Sum%20of%20bit%20differences.py)
     * [Kth smallest element](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/MEDIUM/Kth%20smallest%20element.py)
     * [Multiply two strings](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/MEDIUM/Multiply%20two%20strings.py)
+    * [Case-specific Sorting of Strings](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/MEDIUM/Case-specific%20Sorting%20of%20Strings.py)
   + HARD
 - Hacker Earth
 - CodeForces
