@@ -53,6 +53,7 @@ Collection of Problems with solutions of various Competitive Programming Sites
     * [Multiply two strings](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/MEDIUM/Multiply%20two%20strings.py)
     * [Case-specific Sorting of Strings](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/MEDIUM/Case-specific%20Sorting%20of%20Strings.py)
     * [Find Prime numbers in a range](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/MEDIUM/Find%20Prime%20numbers%20in%20a%20range.py)
+    * [Nearly Sorted Algorithm](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/MEDIUM/Nearly%20Sorted%20Algorithm.py)
   + HARD
 - Hacker Earth
 - CodeForces
