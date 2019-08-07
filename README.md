@@ -63,4 +63,7 @@ Collection of Problems with solutions of various Competitive Programming Sites
 - Hacker Earth
 - CodeForces
 - Leet Code
+- Hacker Blocks
+  + GENERAL
+    * [Rotate Image](https://github.com/VikasViki/Competitive_Programming/blob/master/Hacker%20Blocks/GENERAL/Rotate%20Image) 
  
