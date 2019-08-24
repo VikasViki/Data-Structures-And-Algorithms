@@ -1,5 +1,9 @@
 # Competitive_Programming
 Collection of Problems with solutions of various Competitive Programming Sites
+- [InterviewBit](https://www.interviewbit.com/profile/vikasviki)
+  + Day 3
+    * HomeWork
+      - [Alternate positive and negative elements (Using Extra Space)](https://github.com/VikasViki/Competitive_Programming/blob/master/InterviewBit/Day-3/HomeWork/Alternate%20positive%20and%20negative%20elements%20(Using%20Extra%20Space))
 - [Codechef](https://www.codechef.com/users/vikasviki)
   + Long Challenge's
     * FEB19
