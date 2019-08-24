@@ -1,0 +1,43 @@
+ def solve(self, A):
+        pos_ele_count = 0
+        neg_ele_count = 0
+        pos = []
+        neg = []
+        for ele in A:
+            if ele < 0:
+                neg.append(ele)
+                neg_ele_count += 1
+            else:
+                pos.append(ele)
+                pos_ele_count += 1
+        ans = [0]*(pos_ele_count+neg_ele_count)
+        ans_index = 0
+        pos_index = 0
+        neg_index = 0
+        while pos_index < pos_ele_count and neg_index < neg_ele_count:
+            ans[ans_index] = neg[neg_index]
+            ans_index += 1
+            neg_index += 1
+            ans[ans_index] = pos[pos_index]
+            ans_index += 1
+            pos_index += 1
+        if ans[ans_index] < 0:
+            while pos_index < pos_ele_count:
+                ans[ans_index] = pos[pos_index]
+                ans_index += 1
+                pos_index += 1
+            while neg_index < neg_ele_count:
+                ans[ans_index] = neg[neg_index]
+                ans_index += 1
+                neg_index += 1
+        else:
+            while neg_index < neg_ele_count:
+                ans[ans_index] = neg[neg_index]
+                ans_index += 1
+                neg_index += 1
+            while pos_index < pos_ele_count:
+                ans[ans_index] = pos[pos_index]
+                ans_index += 1
+                pos_index += 1
+        return ans
+            
