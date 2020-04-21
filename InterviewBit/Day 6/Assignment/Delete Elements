@@ -1,0 +1,62 @@
+## Question
+
+"""
+Delete Elements
+Problem Description
+Given an integer array A of size N.
+Find the minimum number of elements that need to be removed such that the GCD of the resulting array becomes 1.
+
+If not possible then return -1.
+    
+
+
+Problem Constraints
+1 <= N <= 100000
+1 <= A[i] <= 1e9
+    
+
+
+Input Format
+Input contains a single integer array A
+   
+
+
+Output Format
+Return an integer
+
+
+Example Input
+Input 1:
+ A = [7, 2, 5]
+   
+
+
+Example Output
+Output 1:
+ 0
+   
+
+
+Example Explanation
+Explanation 1:
+ GCD of the array A is 1.
+ so, the number of elements to be removed is 0.
+"""
+
+## Solution
+
+class Solution:
+    # @param A : list of integers
+    # @return an integer
+    def gcd(self, A, B):
+        while B:
+            A, B = B, A % B
+        return  A
+    
+    def solve(self, A):
+        arr_gcd = A[0]
+        for ele in A[1:]:
+            arr_gcd = self.gcd(arr_gcd, ele)
+            if arr_gcd == 1:
+                return 0
+        return -1
