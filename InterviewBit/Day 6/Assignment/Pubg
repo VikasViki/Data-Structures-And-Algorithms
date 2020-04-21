@@ -53,3 +53,22 @@ class Solution:
         for ele in A:
             min_health = self.gcd(min_health, ele)
         return min_health
+
+## Optimized
+
+class Solution:
+    # @param A : list of integers
+    # @return an integer
+    def gcd(self, A, B):
+        while B:
+            A, B = B, A % B
+        return A
+        
+    def solve(self, A):
+        A_length = len(A)
+        
+        min_health = A[0]
+        for index in range(1,A_length):
+            min_health = self.gcd(min_health, A[index])
+        return min_health
+
