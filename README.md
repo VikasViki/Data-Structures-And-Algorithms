@@ -9,6 +9,7 @@ Collection of Problems with solutions of various Competitive Programming Sites
       - [Greatest Common Divisor](https://github.com/VikasViki/Competitive_Programming/blob/master/InterviewBit/Day%206/Assignment/Greatest%20Common%20Divisor)
       - [Delete One](https://github.com/VikasViki/Competitive_Programming/blob/master/InterviewBit/Day%206/Assignment/Delete%20one)
 - [Codechef](https://www.codechef.com/users/vikasviki)
+      - [Pubg](https://github.com/VikasViki/Competitive_Programming/blob/master/InterviewBit/Day%206/Assignment/Pubg)
   + Long Challenge's
     * FEB19
       - [HMAPPY2](https://github.com/VikasViki/Competitive_Programming/blob/master/Codechef/Long_Challenge/FEB19/HMAPPY2.py)
