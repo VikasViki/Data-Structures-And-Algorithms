@@ -13,6 +13,7 @@ Collection of Problems with solutions of various Competitive Programming Sites
       - [Delete Elements](https://github.com/VikasViki/Competitive_Programming/blob/master/InterviewBit/Day%206/Assignment/Delete%20Elements)
     * Homework
       - [Trailing Zeros in Factorial](https://github.com/VikasViki/Competitive_Programming/blob/master/InterviewBit/Day%206/Homework/Trailing%20Zeros%20in%20Factorial)
+      - [Enumerating GCD](https://github.com/VikasViki/Competitive_Programming/blob/master/InterviewBit/Day%206/Homework/Enumerating%20GCD)
 - [Codechef](https://www.codechef.com/users/vikasviki)
   + Long Challenge's
     * FEB19
