@@ -47,3 +47,20 @@ class Solution:
             if not num%factor:
                 divisors_count += 1
         return divisors_count
+
+
+## Optimized Solution
+
+class Solution:
+    # @param A : integer
+    # @param B : integer
+    # @param C : integer
+    # @return an integer
+    def gcd(self, A, B):
+        while B:
+            A, B = B, A%B
+        return A
+
+    def solve(self, A, B, C):
+        lcm = (B * C)// self.gcd(B, C)
+        return A//lcm
