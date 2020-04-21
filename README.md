@@ -10,6 +10,7 @@ Collection of Problems with solutions of various Competitive Programming Sites
       - [Delete One](https://github.com/VikasViki/Competitive_Programming/blob/master/InterviewBit/Day%206/Assignment/Delete%20one)
       - [Pubg](https://github.com/VikasViki/Competitive_Programming/blob/master/InterviewBit/Day%206/Assignment/Pubg)
       - [Divisor Game](https://github.com/VikasViki/Competitive_Programming/blob/master/InterviewBit/Day%206/Assignment/Divisor%20Game)
+      - [Delete Elements](https://github.com/VikasViki/Competitive_Programming/blob/master/InterviewBit/Day%206/Assignment/Delete%20Elements)
     * Homework
       - [Trailing Zeros in Factorial](https://github.com/VikasViki/Competitive_Programming/blob/master/InterviewBit/Day%206/Homework/Trailing%20Zeros%20in%20Factorial)
 - [Codechef](https://www.codechef.com/users/vikasviki)
