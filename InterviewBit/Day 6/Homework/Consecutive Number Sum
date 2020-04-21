@@ -1,0 +1,56 @@
+## Question
+
+"""
+Problem Description
+Given an integer A. Return number of ways we can write A as a sum of consecutive positive integers.
+
+
+Problem Constraints
+1 <= A <= 109
+
+
+Input Format
+The first argument given is the integer A.
+
+
+Output Format
+Return number of ways we can write A as a sum of consecutive positive integers.
+
+
+Example Input
+A = 9
+
+
+Example Output
+3
+
+
+Example Explanation
+A = 9
+A = 2 + 3 + 4
+A = 5 + 4
+"""
+
+## Solution
+
+class Solution:
+    # @param A : integer
+    # @return an integer
+    def solve(self, A):
+        ways_count = 1
+        l = 1
+        """
+            The idea is to represent N as a sequence of length L+1 as:
+            => N = a + (a+1) + (a+2) + .. + (a+L)
+            => N = (L+1)*a + (1 + 2 + 3 + ... L)
+            => N = (L+1)*a + (L*(L+1))/2  # 
+            => a = (N- L*(L+1)/2)/(L+1)
+            We substitute the values of L starting from 1 till L*(L+1)/2 < N
+            If we get 'a' as a natural number then the solution should be counted.
+        """
+        while (l*(l+1))/2 < A:
+            start = (A - (l*(l+1))/2)/(l+1)
+            if start == int(start):
+                ways_count += 1
+            l += 1
+        return ways_count
