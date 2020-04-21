@@ -14,6 +14,7 @@ Collection of Problems with solutions of various Competitive Programming Sites
     * Homework
       - [Trailing Zeros in Factorial](https://github.com/VikasViki/Competitive_Programming/blob/master/InterviewBit/Day%206/Homework/Trailing%20Zeros%20in%20Factorial)
       - [Enumerating GCD](https://github.com/VikasViki/Competitive_Programming/blob/master/InterviewBit/Day%206/Homework/Enumerating%20GCD)
+      - [A, B and Modulo](https://github.com/VikasViki/Competitive_Programming/blob/master/InterviewBit/Day%206/Homework/A%2C%20B%20and%20Modulo)
 - [Codechef](https://www.codechef.com/users/vikasviki)
   + Long Challenge's
     * FEB19
