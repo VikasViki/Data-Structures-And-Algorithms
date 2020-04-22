@@ -16,6 +16,9 @@ Collection of Problems with solutions of various Competitive Programming Sites
       - [Enumerating GCD](https://github.com/VikasViki/Competitive_Programming/blob/master/InterviewBit/Day%206/Homework/Enumerating%20GCD)
       - [A, B and Modulo](https://github.com/VikasViki/Competitive_Programming/blob/master/InterviewBit/Day%206/Homework/A%2C%20B%20and%20Modulo)
       - [Consecutive Number Sum](https://github.com/VikasViki/Competitive_Programming/blob/master/InterviewBit/Day%206/Homework/Consecutive%20Number%20Sum)
+   + Day 8
+     * Assignment
+       - [Count of divisors for multiple queries](https://github.com/VikasViki/Competitive_Programming/blob/master/InterviewBit/Day%208/Assignment/Count%20of%20divisors%20for%20multiple%20queries)
 - [Codechef](https://www.codechef.com/users/vikasviki)
   + Long Challenge's
     * FEB19
