@@ -66,3 +66,26 @@ class Solution:
             traversed[num] = traversed.get(num, self.divisors_count(num))
             ans_arr.append(traversed[num])
         return ans_arr
+    
+  ## Optimized Solution
+  
+  divisors_count = [2] * 1000001
+divisors_count[1] = 1
+
+i = 2
+while i <= 1000001:
+    for factor in range(2*i, 1000001, i):
+        divisors_count[factor] += 1
+    i += 1
+
+class Solution:
+    # @param A : list of integers
+    # @return a list of integers
+    
+    def solve(self, A):
+        A_length = len(A)
+        ans_arr = [0] * A_length
+        for index in range(A_length):
+            ans_arr[index] = divisors_count[A[index]]
+        return ans_arr
+        
