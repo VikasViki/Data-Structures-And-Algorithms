@@ -1,0 +1,48 @@
+## Question
+
+""""
+Lucky Numbers
+A lucky number is a number which has exactly 2 distinct prime divisors. You are given a number N and you need to determine the count of lucky numbers between the range 1 to N (both inclusive). Input
+The first argument contains one integer number N (1 ≤  N  ≤ 5000).
+Output
+Return an integer i.e the count of lucky numbers between 1 and N, both inclusive.
+Examples Input
+8
+Output
+1 
+Explanation Testcase 1-
+Between [1,8] there is only 1 lucky number i.e 6
+"""
+
+## Solution
+
+is_prime = [True]*5001
+p = 2
+while p*p <= 5001:
+    if is_prime[p]:
+        for num in range(2*p, 5001, p):
+            is_prime[num] = False
+    p += 1
+
+class Solution:
+    # @param A : integer
+    # @return an integer
+    def divisors_count(self, num):
+        count = 0
+        temp = num
+        for factor in range(2, num):
+            if not temp%factor:
+                while not temp%factor:
+                    temp //= factor
+                count += 1
+        if count == 2:
+            return True
+        return False
+            
+    def solve(self, A):
+        lucky_num_count = 0
+        for num in range(6, A+1):
+            if not is_prime[num] and self.divisors_count(num):
+                lucky_num_count += 1
+        return lucky_num_count
+        
