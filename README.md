@@ -22,6 +22,7 @@ Collection of Problems with solutions of various Competitive Programming Sites
      * Homework
        - [Prime Sum](https://github.com/VikasViki/Competitive_Programming/blob/master/InterviewBit/Day%208/Homework/Prime%20Sum)
        - [Lucky Numbers](https://github.com/VikasViki/Competitive_Programming/blob/master/InterviewBit/Day%208/Homework/Lucky%20Numbers)
+       - [Find nth Magic Number](https://github.com/VikasViki/Competitive_Programming/blob/master/InterviewBit/Day%208/Homework/Find%20nth%20Magic%20%20Number)
 - [Codechef](https://www.codechef.com/users/vikasviki)
   + Long Challenge's
     * FEB19
