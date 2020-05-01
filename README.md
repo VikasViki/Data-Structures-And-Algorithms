@@ -19,6 +19,7 @@ Collection of Problems with solutions of various Competitive Programming Sites
    + Day 8
      * Assignment
        - [Count of divisors for multiple queries](https://github.com/VikasViki/Competitive_Programming/blob/master/InterviewBit/Day%208/Assignment/Count%20of%20divisors%20for%20multiple%20queries)
+       - [Factorial Array](https://github.com/VikasViki/Competitive_Programming/blob/master/InterviewBit/Day%208/Assignment/Factorial%20Array)
      * Homework
        - [Prime Sum](https://github.com/VikasViki/Competitive_Programming/blob/master/InterviewBit/Day%208/Homework/Prime%20Sum)
        - [Lucky Numbers](https://github.com/VikasViki/Competitive_Programming/blob/master/InterviewBit/Day%208/Homework/Lucky%20Numbers)
