@@ -1,0 +1,88 @@
+## Question
+
+"""
+Factorial Array
+Problem Description
+Groot has an array A of size N. Boring right? Groot thought so too, so he decided to construct another array B of the same size and defined elements of B as: B[i] = factorial of A[i] for every i such that 1<= i <= N.    
+factorial of a number X denotes (1 x 2 x 3 x 4......(X-1) x (X)).
+ Now Groot is interested in the total number of non-empty subsequences of array B such that every element in the subsequence has the same non empty set of prime factors. Since the number can be very large, return it modulo 109 + 7. NOTE: A set is a data structure having only distinct elements. Eg : the set of prime factors of Y=12 will be {2,3} and not {2,2,3}    
+
+
+Problem Constraints
+1 <= N <= 105
+1 <= A[i] <= 106
+Your code will run against a maximum of 5 test cases.
+
+
+Input Format
+Only argument is an integer array A of size N.
+
+
+Output Format
+Return an integer deonting the total number of non-empty subsequences of array B such that every element in the subsequence has the same set of prime factors modulo 109+7.
+
+
+Example Input
+Input 1:
+ A = [2, 3, 2, 3]
+Input 2:
+ A = [2, 3, 4]
+   
+
+
+Example Output
+Output 1:
+ 6
+Output 2:
+ 4
+   
+
+
+Example Explanation
+Explanation 1:
+ Array B will be : [2, 6, 2, 6]
+ The total possible subsequences are 6 : [2], [2], [2, 2], [6], [6], [6, 6].
+Input 2:
+ Array B will be : [2, 6, 24]
+ The total possible subsequences are 4 : [2], [6], [24], [6, 24].
+"""
+
+## Solution
+
+class Solution:
+    # @param A : list of integers
+    # @return an integer
+    nearest_small_prime = [True for i in range(1000001)]
+    p = 2
+    while p*p <= 1000001:
+        if nearest_small_prime[p]:
+            for i in range(2*p, 1000001, p):
+                nearest_small_prime[i] = False
+        p += 1
+    nearest_small_prime[1] = 1
+    nearest_small_prime[2] = 2
+    nearest_small_prime[3] = 3
+    previous_prime = 3
+    for index in range(4,1000001):
+        if nearest_small_prime[index]:
+            nearest_small_prime[index] = index
+            previous_prime = index
+        else:
+            nearest_small_prime[index] = previous_prime
+    
+    def solve(self, A):
+        A_length = len(A)
+        freq_dict = {}
+        
+        for index in range(A_length):
+            if A[index] != 1:
+                A[index] = self.nearest_small_prime[A[index]]
+                freq_dict[A[index]] = freq_dict.get(A[index], 0) + 1
+            
+        sub_seq_count = 0
+        
+        for freq in freq_dict.values():
+            sub_seq_count += (2**freq) - 1
+        
+        return sub_seq_count
+        
