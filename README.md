@@ -24,6 +24,9 @@ Collection of Problems with solutions of various Competitive Programming Sites
        - [Prime Sum](https://github.com/VikasViki/Competitive_Programming/blob/master/InterviewBit/Day%208/Homework/Prime%20Sum)
        - [Lucky Numbers](https://github.com/VikasViki/Competitive_Programming/blob/master/InterviewBit/Day%208/Homework/Lucky%20Numbers)
        - [Find nth Magic Number](https://github.com/VikasViki/Competitive_Programming/blob/master/InterviewBit/Day%208/Homework/Find%20nth%20Magic%20%20Number)
+    + Day 17 - Two Pointers
+      * Assignment
+        - [Count of pairs with the given sum](https://github.com/VikasViki/Competitive_Programming/blob/master/InterviewBit/Day%2017%20:%20Two%20Pointers/Assignment/Count%20of%20pairs%20with%20the%20given%20sum)
 - [Codechef](https://www.codechef.com/users/vikasviki)
   + Long Challenge's
     * FEB19
