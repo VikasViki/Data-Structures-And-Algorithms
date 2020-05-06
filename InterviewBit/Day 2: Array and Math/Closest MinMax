@@ -1,0 +1,50 @@
+## Question
+
+"""
+Closest MinMax
+Given an array of size N. Find the size of the smallest subarray such that it contains atleast one occurrence of the maximum value of the array and atleast one occurrence of the minimum value of the array. Constraints:
+1.   1 <= N <= 2000
+Input Format An integer array. Output Format Length of the smallest subarray which has atleast one occurrence of minimum and maximum element of the array Example Input
+Array:[1 3 5 2 4 3]
+Example Output
+3
+Explanation Choose the subarray starting from the 0th index and ending at 2nd index which is of size 3.
+"""
+
+## Solution
+
+class Solution:
+    # @param A : list of integers
+    # @return an integer
+    def solve(self, A):
+        
+        A_length = len(A)
+        
+        if A_length == 1:
+            return 1
+        
+        min_val = max_val = A[0]
+        
+        for index in range(1,A_length):
+            if A[index] < min_val:
+                min_val = A[index]
+            elif A[index] > max_val:
+                max_val = A[index]
+        
+        ans = float('inf')
+        min_index = ans
+        max_index = ans
+        
+        for index in range(A_length):
+            
+            if A[index] == min_val:
+                min_index = index
+            
+            if A[index] == max_val:
+                max_index = index
+            
+            ans = min(ans, abs(max_index-min_index)+1)
+        
+        return ans
+        
+        
