@@ -93,7 +93,9 @@ Collection of Problems with solutions of various Competitive Programming Sites
     * [Return two prime numbers](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/HARD/Return%20two%20prime%20numbers.py)
 - Hacker Earth
 - CodeForces
-- Leet Code
+- LeetCode(https://leetcode.com/vikasviki489/)
+  + MEDIUM
+    * [Sequential Digits](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Medium/Sequential%20Digits.md)
 - Hacker Blocks
   + GENERAL
     * [Rotate Image](https://github.com/VikasViki/Competitive_Programming/blob/master/Hacker%20Blocks/GENERAL/Rotate%20Image) 
