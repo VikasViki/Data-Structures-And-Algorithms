@@ -4,6 +4,7 @@ Approach :
 
 Solution:
 
+```Python
 class Solution:
     def sequentialDigits(self, low: int, high: int) -> List[int]:
         ans = []
@@ -23,3 +24,4 @@ class Solution:
                     ans.append(num)
         
         return ans
+```
