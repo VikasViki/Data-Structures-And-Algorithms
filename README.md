@@ -1,5 +1,12 @@
 # Competitive_Programming
-Collection of Problems with solutions of various Competitive Programming Sites
+## Collection of Python solutions for Problems from various Competitive Programming Sites
+
+- [LeetCode](https://leetcode.com/vikasviki489/)
+  + MEDIUM
+    * [Sequential Digits](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Medium/Sequential%20Digits.md)
+  + HARD
+    * [Unique Paths III](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Hard/Unique%20Paths%20III.md)
+    
 - [InterviewBit](https://www.interviewbit.com/profile/vikasviki)
   + Day 2: Array and Math
     * Assignment
@@ -30,6 +37,7 @@ Collection of Problems with solutions of various Competitive Programming Sites
     + Day 17 - Two Pointers
       * Assignment
         - [Count of pairs with the given sum](https://github.com/VikasViki/Competitive_Programming/blob/master/InterviewBit/Day%2017%20:%20Two%20Pointers/Assignment/Count%20of%20pairs%20with%20the%20given%20sum)
+        
 - [Codechef](https://www.codechef.com/users/vikasviki)
   + Long Challenge's
     * FEB19
@@ -51,6 +59,7 @@ Collection of Problems with solutions of various Competitive Programming Sites
     * EASY
     * MEDIUM
     * HARD
+    
 - Hacker Rank
 - [Geeks For Geeks](https://auth.geeksforgeeks.org/user/VikasViki/)
   + SCHOOL
@@ -91,11 +100,11 @@ Collection of Problems with solutions of various Competitive Programming Sites
     * [Subarray with given sum](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/EASY/Subarray%20with%20given%20sum.py)
   + HARD
     * [Return two prime numbers](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/HARD/Return%20two%20prime%20numbers.py)
+    
 - Hacker Earth
+
 - CodeForces
-- [LeetCode](https://leetcode.com/vikasviki489/)
-  + MEDIUM
-    * [Sequential Digits](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Medium/Sequential%20Digits.md)
+
 - Hacker Blocks
   + GENERAL
     * [Rotate Image](https://github.com/VikasViki/Competitive_Programming/blob/master/Hacker%20Blocks/GENERAL/Rotate%20Image) 
