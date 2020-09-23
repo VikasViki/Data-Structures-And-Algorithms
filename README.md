@@ -5,6 +5,7 @@
   + MEDIUM
     * [Sequential Digits](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Medium/Sequential%20Digits.md)
     * [Car Pooling](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Medium/Car%20Pooling.md)
+    * [Majority Element II](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Medium/Majority%20Element%20II.md)
   + HARD
     * [Unique Paths III](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Hard/Unique%20Paths%20III.md)
     
