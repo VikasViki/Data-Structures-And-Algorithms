@@ -2,6 +2,8 @@
 ## Collection of Python solutions for Problems from various Competitive Programming Sites
 
 - [LeetCode](https://leetcode.com/vikasviki489/)
+  + EASY
+    * [Find the Difference](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Easy/Find%20the%20Difference.md)
   + MEDIUM
     * [Gas Station](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Medium/Gas%20Station.md)
     * [Sequential Digits](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Medium/Sequential%20Digits.md)
