@@ -34,4 +34,30 @@ class Solution:
             
  ```
 
-# Code Explanation
+## Code Explanation
+
+## Time Complexity : O(NlogN)
+
+```Python
+
+from functools import cmp_to_key
+
+class Solution:
+    def largestNumber(self, nums: List[int]) -> str:
+        str_nums = list(map(str, nums))
+        
+        def compare(str1, str2):
+            if str1+str2 < str2+str1:
+                return 1
+            return -1
+        
+        sorted_str = sorted(str_nums, key=cmp_to_key(compare))
+        
+        if sorted_str[0] == '0':
+            return '0'
+        
+        return "".join(sorted_str)
+            
+ ```
+
+## Code Explanation
