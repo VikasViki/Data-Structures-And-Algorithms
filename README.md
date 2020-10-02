@@ -3,6 +3,7 @@
 
 - [LeetCode](https://leetcode.com/vikasviki489/)
   + EASY
+    * [Number of Recent Calls](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Easy/Number%20of%20Recent%20Calls.md)
     * [Find the Difference](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Easy/Find%20the%20Difference.md)
   + MEDIUM
     * [Word Break](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Medium/Word%20Break.md)
