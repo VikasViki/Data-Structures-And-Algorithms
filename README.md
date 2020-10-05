@@ -6,6 +6,7 @@
     * [Number of Recent Calls](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Easy/Number%20of%20Recent%20Calls.md)
     * [Find the Difference](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Easy/Find%20the%20Difference.md)
   + MEDIUM
+    * [Remove Covered Intervals](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Medium/Remove%20Covered%20Intervals.md)
     * [K Diff Pairs in Array](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Medium/K-diff%20Pairs%20in%20an%20Array.md)
     * [Combination Sum](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Medium/Combination%20Sum.md)
     * [Word Break](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Medium/Word%20Break.md)
