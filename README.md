@@ -3,6 +3,7 @@
 
 - [LeetCode](https://leetcode.com/vikasviki489/)
   + EASY
+    * [Complement of Base 10 Integer](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Easy/Complement%20of%20Base%2010%20Integer.md)
     * [Number of Recent Calls](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Easy/Number%20of%20Recent%20Calls.md)
     * [Find the Difference](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Easy/Find%20the%20Difference.md)
   + MEDIUM
