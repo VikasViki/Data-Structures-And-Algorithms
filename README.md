@@ -8,6 +8,7 @@
     * [Number of Recent Calls](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Easy/Number%20of%20Recent%20Calls.md)
     * [Find the Difference](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Easy/Find%20the%20Difference.md)
   + MEDIUM
+    * [Minimum Number of Arrows to Burst Balloons](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Medium/Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.md)
     * [Rotate List](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Medium/Rotate%20List.md)
     * [Insert into Binary Search Tree](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Medium/Insert%20into%20a%20Binary%20Search%20Tree.md)
     * [Remove Covered Intervals](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Medium/Remove%20Covered%20Intervals.md)
