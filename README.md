@@ -3,6 +3,7 @@
 
 - [LeetCode](https://leetcode.com/vikasviki489/)
   + EASY
+    * [Buddy Strings](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Easy/Buddy%20Strings.md)
     * [Binary Search](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Easy/Binary%20Search.md)
     * [Complement of Base 10 Integer](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Easy/Complement%20of%20Base%2010%20Integer.md)
     * [Number of Recent Calls](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Easy/Number%20of%20Recent%20Calls.md)
