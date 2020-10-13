@@ -2,7 +2,7 @@
 ## Collection of Python solutions for Problems from various Competitive Programming Sites
 
 - [LeetCode](https://leetcode.com/vikasviki489/)
-  + EASY
+  + EASY [5]
     * [Buddy Strings](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Easy/Buddy%20Strings.md)
     * [Binary Search](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Easy/Binary%20Search.md)
     * [Complement of Base 10 Integer](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Easy/Complement%20of%20Base%2010%20Integer.md)
@@ -25,7 +25,7 @@
     * [Sequential Digits](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Medium/Sequential%20Digits.md)
     * [Car Pooling](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Medium/Car%20Pooling.md)
     * [Majority Element II](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Medium/Majority%20Element%20II.md)
-  + HARD
+  + HARD [2]
     * [First Missing Positive](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Hard/First%20Missing%20Positive.md)
     * [Unique Paths III](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Hard/Unique%20Paths%20III.md)
     
@@ -120,7 +120,7 @@
     * [Find Prime numbers in a range](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/MEDIUM/Find%20Prime%20numbers%20in%20a%20range.py)
     * [Nearly Sorted Algorithm](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/MEDIUM/Nearly%20Sorted%20Algorithm.py)
     * [Subarray with given sum](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/EASY/Subarray%20with%20given%20sum.py)
-  + HARD
+  + HARD [1]
     * [Return two prime numbers](https://github.com/VikasViki/Competitive_Programming/blob/master/Geeks%20For%20Geeks/HARD/Return%20two%20prime%20numbers.py)
     
 - Hacker Earth
@@ -128,6 +128,6 @@
 - CodeForces
 
 - Hacker Blocks
-  + GENERAL
+  + GENERAL [1]
     * [Rotate Image](https://github.com/VikasViki/Competitive_Programming/blob/master/Hacker%20Blocks/GENERAL/Rotate%20Image) 
  
