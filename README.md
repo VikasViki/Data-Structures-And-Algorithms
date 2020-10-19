@@ -9,6 +9,7 @@
     * [Number of Recent Calls](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Easy/Number%20of%20Recent%20Calls.md)
     * [Find the Difference](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Easy/Find%20the%20Difference.md)
   + MEDIUM
+    * [Repeated DNA Sequences](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Medium/Repeated%20DNA%20Sequences.md)
     * [Search A 2D Matrix](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Medium/Search%20a%202D%20Matrix.md)
     * [Rotate Array](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Medium/Rotate%20Array.md)
     * [House Robber II](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Medium/House%20Robber%20II.md)
