@@ -3,6 +3,7 @@
 
 - [LeetCode](https://leetcode.com/vikasviki489/)
   + EASY
+    * [Minimum Depth of Binary Tree](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Easy/Minimum%20Depth%20of%20Binary%20Tree.md)
     * [Buddy Strings](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Easy/Buddy%20Strings.md)
     * [Binary Search](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Easy/Binary%20Search.md)
     * [Complement of Base 10 Integer](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Easy/Complement%20of%20Base%2010%20Integer.md)
