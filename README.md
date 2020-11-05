@@ -12,6 +12,7 @@
     * [Number of Recent Calls](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Easy/Number%20of%20Recent%20Calls.md)
     * [Find the Difference](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Easy/Find%20the%20Difference.md)
   + MEDIUM
+    * [Insertion Sort List](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Medium/Insertion%20Sort%20List.md)
     * [Number of Longest Increasing Subsequence](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Medium/Number%20of%20Longest%20Increasing%20Subsequence.md)
     * [Maximize Distance to Closest Person](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Medium/Maximize%20Distance%20to%20Closest%20Person.md)
     * [Linked List Cycle II](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Medium/Linked%20List%20Cycle%20II.md)
