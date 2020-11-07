@@ -3,6 +3,7 @@
 
 - [LeetCode](https://leetcode.com/vikasviki489/)
   + EASY
+    * [Consecutive Characters](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Easy/Consecutive%20Characters.md)
     * [Convert Binary Number in a Linked List to Integer](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Easy/Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.md)
     * [Summary Ranges](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Easy/Summary%20Ranges.md)
     * [Minimum Depth of Binary Tree](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Easy/Minimum%20Depth%20of%20Binary%20Tree.md)
