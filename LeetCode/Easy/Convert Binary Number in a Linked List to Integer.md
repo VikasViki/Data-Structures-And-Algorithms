@@ -3,6 +3,11 @@ https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
 
 # Approach
 
+- Traverse the link list from left to right
+- While traversing store values of node into a concatenated string
+- Multiply the string value with 2<sup>index</sup> 
+- Store the accumalted sum in a decimal variable [Final Ans]
+
 # Python Code
 
 ```Python
