@@ -3,6 +3,7 @@
 
 - [LeetCode](https://leetcode.com/vikasviki489/)
   + EASY
+    * [Minimum Cost to Move Chips to The Same Position](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Easy/Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position.md)
     * [Consecutive Characters](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Easy/Consecutive%20Characters.md)
     * [Convert Binary Number in a Linked List to Integer](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Easy/Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.md)
     * [Summary Ranges](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Easy/Summary%20Ranges.md)
