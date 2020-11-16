@@ -3,6 +3,7 @@
 
 - [LeetCode](https://leetcode.com/vikasviki489/)
   + EASY
+    * [Flipping an Image](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Easy/Flipping%20an%20Image.md)
     * [Binary Tree Tilt](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Easy/Binary%20Tree%20Tilt.md)
     * [Minimum Cost to Move Chips to The Same Position](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Easy/Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position.md)
     * [Consecutive Characters](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Easy/Consecutive%20Characters.md)
