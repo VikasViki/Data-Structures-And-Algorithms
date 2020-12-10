@@ -2,6 +2,8 @@
 ## Collection of Python solutions for Problems from various Competitive Programming Sites
 
 - [LeetCode](https://leetcode.com/vikasviki489/)
+  + PREMIUM
+    * [Missing Ranges](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Premium/Missing%20Ranges.md)
   + EASY
     * [Flipping an Image](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Easy/Flipping%20an%20Image.md)
     * [Binary Tree Tilt](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Easy/Binary%20Tree%20Tilt.md)
