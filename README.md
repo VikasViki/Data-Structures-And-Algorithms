@@ -4,6 +4,7 @@
 - [LeetCode](https://leetcode.com/vikasviki489/)
   + PREMIUM
     * [Missing Ranges](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Premium/Missing%20Ranges.md)
+    * [Shortest Word Distance](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Premium/Shortest%20Word%20Distance.md)
   + EASY
     * [Flipping an Image](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Easy/Flipping%20an%20Image.md)
     * [Binary Tree Tilt](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Easy/Binary%20Tree%20Tilt.md)
