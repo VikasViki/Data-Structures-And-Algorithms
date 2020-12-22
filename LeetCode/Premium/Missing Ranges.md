@@ -42,7 +42,7 @@ class Solution:
         diff = upper - nums[-1] + 1
         self.append_range(diff, nums[-1]+1, upper)
         
-        return self.missing_ranges
+        return self.missing_ranges 
  ```
 
 # Code Explanation
