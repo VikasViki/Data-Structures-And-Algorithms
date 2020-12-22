@@ -30,7 +30,7 @@ class Solution:
             for word2_index in word2_indices:
                 shortest_distance = min(shortest_distance, abs(word1_index-word2_index))
         
-        return shortest_distance
+        return shortest_distance 
  ```
 
 # Code Explanation
