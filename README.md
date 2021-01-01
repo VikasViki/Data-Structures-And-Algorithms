@@ -3,6 +3,7 @@
 
 - [LeetCode](https://leetcode.com/vikasviki489/)
   + PREMIUM
+    * [Palindrome Permutation](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Premium/Palindrome%20Permutation.md)
     * [Missing Ranges](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Premium/Missing%20Ranges.md)
     * [Shortest Word Distance](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Premium/Shortest%20Word%20Distance.md)
   + EASY
