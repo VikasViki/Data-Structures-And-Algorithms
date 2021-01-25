@@ -6,6 +6,7 @@ https://leetcode.com/problems/palindrome-permutation/
 # Python Code
 
 ```Python
+
 from collections import Counter
 class Solution:
     """
@@ -22,6 +23,7 @@ class Solution:
                 if odd_count == 2:
                     return False
         return True
+        
 ```
 
 # Code Explanation
