@@ -3,6 +3,7 @@
 
 - [LeetCode](https://leetcode.com/vikasviki489/)
   + PREMIUM
+    * [Nested List Weight Sum](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Premium/Nested%20List%20Weight%20Sum.md)
     * [Palindrome Permutation](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Premium/Palindrome%20Permutation.md)
     * [Missing Ranges](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Premium/Missing%20Ranges.md)
     * [Shortest Word Distance](https://github.com/VikasViki/Competitive_Programming/blob/master/LeetCode/Premium/Shortest%20Word%20Distance.md)
