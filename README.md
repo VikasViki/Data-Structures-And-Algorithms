@@ -1,5 +1,6 @@
-# Competitive_Programming
-## Collection of Python solutions for Problems from various Competitive Programming Sites
+# Data Structures And Algorithms
+
+## Collection of Python solutions for various Data Structures And Algorithms questions.
 
 - [LeetCode](https://leetcode.com/vikasviki489/)
   + PREMIUM
